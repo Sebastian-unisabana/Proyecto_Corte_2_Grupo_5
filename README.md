@@ -1,4 +1,4 @@
-# Cafetería U. Sabana — Arquitectura Escalada
+# Arquitectura Escalada StartUp
 
 **Proyecto Corte 2 | Programación de Bases de Datos**
 Universidad de La Sabana
