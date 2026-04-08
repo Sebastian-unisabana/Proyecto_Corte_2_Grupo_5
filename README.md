@@ -17,7 +17,7 @@ Universidad de La Sabana
 
 ## Descripción del Proyecto
 
-Sistema de gestión para la Cafetería U. Sabana, desarrollado con arquitectura
+Sistema de gestión para el StartUp, desarrollado con arquitectura
 orientada a objetos (POO) e integrado con una base de datos SQLite.
 
 Esta segunda entrega escala la solución implementando jerarquías de clases,
